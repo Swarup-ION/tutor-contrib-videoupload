@@ -11,7 +11,7 @@ from .__about__ import __version__
 config = {
     "defaults": {
         "VERSION": __version__,
-        "VEM_S3_BUCKET": "openedxvideos",
+        "VEM_S3_BUCKET": "ion-lms-app",
         "ROOT_PATH": "upload"
     },
     "unique": {},
